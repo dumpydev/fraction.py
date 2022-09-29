@@ -1,3 +1,9 @@
+# fraction.py 
+# v1.0
+# by dumpydev
+# 29/09/2022
+
+
 class fraction:
     def __init__(self, a,b):
         self.a = a
